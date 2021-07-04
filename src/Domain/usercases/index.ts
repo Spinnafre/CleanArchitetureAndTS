@@ -1,0 +1,1 @@
+export * from '@/Domain/usercases/save-purchases'
